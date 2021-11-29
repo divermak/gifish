@@ -1,0 +1,13 @@
+{
+  "add_to_favorites": "Add to favorites",
+  "copy_to_clipboard": "Copy to clipboard",
+  "favorites": "Favorites",
+  "go_home": "Go to {{name}} Home",
+  "link_copied": "Link copied.",
+  "page_not_found": "Page not found",
+  "page_not_found_text": "Sorry, we can't find what you're looking for.",
+  "remove_from_favorites": "Remove from favorites",
+  "search": "Search",
+  "search_placeholder": "Search GIFs",
+  "error": "Oh no, there was an error"
+}
