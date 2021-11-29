@@ -1,4 +1,3 @@
-import { VisuallyHidden } from "@chakra-ui/react";
 import { useTranslation } from "react-i18next";
 import { Link, useLocation } from "react-router-dom";
 import { ReactSVG } from "react-svg";

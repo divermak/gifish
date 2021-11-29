@@ -50,26 +50,7 @@ export const giphyApi = createApi({
             },
           };
         });
-      },
-      // trigger side effects or optimistic updates
-      onQueryStarted(
-        id,
-        { dispatch, getState, extra, requestId, queryFulfilled, getCacheEntry, updateCachedData }
-      ) {},
-      // handle subscriptions etc
-      onCacheEntryAdded(
-        id,
-        {
-          dispatch,
-          getState,
-          extra,
-          requestId,
-          cacheEntryRemoved,
-          cacheDataLoaded,
-          getCacheEntry,
-          updateCachedData,
-        }
-      ) {},
+      }
     }),
   }),
 });
